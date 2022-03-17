@@ -9,8 +9,8 @@ At the end of the game, a new screen will appear to show the user their final sc
 - CSS
 - JavaScript
 ## Links
-[GitHub Repository](https://github.com/danianise/triviagame)
-[Play the game](https://danianise.github.io/triviagame/)
+- [GitHub Repository](https://github.com/danianise/triviagame)
+- [Play the game](https://danianise.github.io/triviagame/)
 ## Game Screenshots
 ### Game play
 ![Screen Shot 2022-03-16 at 9 05 21 PM](https://user-images.githubusercontent.com/97096664/158716387-f21810b4-2420-4d73-9086-91d41b757e94.png)
