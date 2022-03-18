@@ -127,10 +127,12 @@ body {
         display: block;
     }
     #scoreDiv {
-        top: 70%;
-        margin-top: 4%;
-        right: 10%;
+        display: block;
+        bottom: 80%;
+        margin-top: 8%;
         position: relative;
+        text-align: center;
+        left: 0%;
     }
     #trivia {
         font-size: 120%;
@@ -138,6 +140,17 @@ body {
     }
     #content{
         top: 70%;
+        position: relative;
+    }
+    #levelCharacter{
+        border: 2px solid white;
+        position: relative;
+        right: 20%;
+        margin-bottom: 8%;
+    }
+    #level{
+        position: relative;
+        left: 12%
     }
 }
 
