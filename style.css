@@ -122,12 +122,12 @@ body {
     left: 60%;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 600px) {
     body {
         display: block;
     }
     #scoreDiv {
-        top: 50%;
+        top: 70%;
         margin-top: 4%;
     }
     #trivia {
