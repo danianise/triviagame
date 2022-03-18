@@ -129,6 +129,8 @@ body {
     #scoreDiv {
         top: 70%;
         margin-top: 4%;
+        right: 10%;
+        position: relative;
     }
     #trivia {
         font-size: 120%;
