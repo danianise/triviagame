@@ -152,6 +152,9 @@ body {
         position: relative;
         left: 12%
     }
+    .heading2, #wizardType{
+        color: silver;
+    }
 }
 
 /* h1{
