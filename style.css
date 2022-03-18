@@ -122,6 +122,23 @@ body {
     left: 60%;
 }
 
+@media (max-width: 500px) {
+    body {
+        display: block;
+    }
+    #scoreDiv {
+        top: 50%;
+        margin-top: 4%;
+    }
+    #trivia {
+        font-size: 120%;
+        top: 10%;
+    }
+    #content{
+        top: 70%;
+    }
+}
+
 /* h1{
     margin-top: 2%;
     margin-bottom: 0;
